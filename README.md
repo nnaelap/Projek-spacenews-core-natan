@@ -1,4 +1,6 @@
-# remidi
+# Projek Remidi SpaceNews Core - Advanced International News Portal 
+## Natanael Alfianadi Putra
+## 1462300009
 
 A new Flutter project.
 
