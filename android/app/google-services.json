@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083439063495",
+    "project_id": "spacenews-core-natan",
+    "storage_bucket": "spacenews-core-natan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083439063495:android:ce45dd785f9f0cab33b9e2",
+        "android_client_info": {
+          "package_name": "com.example.remidi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdoqRjGfcVxYxvPEh7GIBaTH3ntsAupqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
